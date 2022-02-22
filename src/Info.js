@@ -8,7 +8,7 @@ export default function Info() {
             <img className="Dev-img" src={picture} alt="my picture"/>
             <h1>Braimah Hakeem</h1>
             <p>Frontend Developer</p>
-            <p><a>hakeem-braimah.netlify.app</a></p>
+            <a href="https://hakeem-braimah.netlify.app"  target="_blank">hakeem-braimah.netlify.app</a>
             <button><i class="fa fa-envelope"></i><p className="email-btn-txt">Email</p></button>
         </div>
     )
